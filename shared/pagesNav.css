@@ -1,0 +1,54 @@
+.custom-select {
+  width: 4.5rem;
+  font-size: 14px;
+}
+
+.pages-navigation-wrapper {
+  display: flex;
+  justify-content: center;
+  margin-top: 1rem;
+}
+
+.pages-navigation {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 75vw;
+}
+
+.pages-navigation p {
+  margin: 0;
+}
+
+.pages-navigation-div {
+  display: flex;
+  width: 7rem;
+}
+
+.btn-pages-left {
+  border-radius: 10% 0% 0% 10%;
+}
+
+.btn-pages-right {
+  border-radius: 0% 10% 10% 0%;
+}
+
+.btn-pages-center {
+  border-radius: 0;
+}
+
+.pages-count-wrapper {
+  display: flex;
+  justify-content: center;
+}
+
+.pages-count {
+  display: flex;
+  align-items: center;
+  width: 75vw;
+}
+
+.pages-count p {
+  margin: 0;
+  padding-left: 0.3rem;
+}

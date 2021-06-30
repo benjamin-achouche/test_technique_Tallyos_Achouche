@@ -1,0 +1,122 @@
+.content-container {
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.content-wrapper {
+  display: flex;
+  width: 75%;
+  margin-top: 0.5rem;
+}
+
+.content-message {
+  width: 75%;
+  margin-right: 0.5rem;
+}
+
+.content-thumbnail {
+  width: 25%;
+  height: 32rem;
+  margin-left: 0.5rem;
+  margin-top: 1.5rem;
+}
+
+.template-subject {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 1rem;
+}
+
+#floatingTextarea2 {
+  resize: none;
+  color: black;
+  font-size: small;
+  white-space: pre-wrap;
+  height: 15.65rem !important;
+  margin-bottom: 1rem;
+}
+
+#bubble {
+  border: solid black 2px;
+  border-radius: 50%;
+  width: 9rem;
+  height: 9rem;
+  margin-left: 1rem;
+}
+
+label {
+  margin: 0;
+  color: #888;
+  font-size: small;
+}
+
+.send-group {
+  color: black;
+}
+
+.thumbnail-wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  height: 80%;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+}
+
+.send-group-wrapper {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 2rem;
+}
+
+.grey-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #eee;
+  color: #888;
+  font-size: 25px;
+  height: 50%;
+  width: 97%;
+  margin-top: 0.25rem;
+}
+
+.checkbox-div {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin-bottom: 0.125rem;
+}
+
+.checkbox-div label {
+  margin-left: 0.35rem;
+}
+
+.checkbox-input {
+  width: 1rem;
+  height: 1rem;
+}
+
+.template-name {
+  width: 80%;
+}
+
+#dropdown {
+  margin-bottom: 1rem;
+  width: 30%;
+}
+
+.dropdown-wrapper {
+  display: flex;
+  flex-direction: column;
+}
+
+.thumbnail-btns {
+  align-self: flex-start;
+  margin: 0 1rem;
+  margin-bottom: 1rem;
+}

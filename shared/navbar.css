@@ -1,0 +1,50 @@
+.container-fluid {
+  padding: 0;
+  margin-bottom: 1rem;
+}
+
+.navbar {
+  padding: 0;
+}
+
+.navbar-nav li,
+.navbar-nav li a {
+  color: grey;
+}
+
+.navbar-nav {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.company {
+  width: 12vw;
+  text-align: left;
+  padding-left: 1.2rem;
+}
+
+.link {
+  width: 10vw;
+  text-align: center;
+}
+
+.nav-link:hover {
+  color: white;
+}
+
+#logout {
+  color: white;
+  width: 57vw;
+  padding-right: 0.6rem;
+  text-align: right;
+}
+
+#current-page {
+  background-color: black;
+  padding: 0.25rem 0;
+}
+
+#current-page a {
+  color: white;
+}

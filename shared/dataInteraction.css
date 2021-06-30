@@ -1,0 +1,16 @@
+.data-interaction-wrapper {
+  display: flex;
+  justify-content: center;
+}
+
+.data-interaction {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 75vw;
+}
+
+.search {
+  border: solid 1px #999;
+  border-radius: 4px;
+}

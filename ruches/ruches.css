@@ -1,0 +1,49 @@
+.data-header-latitude {
+  width: 22vw;
+  padding-left: 1.2rem;
+}
+
+.data-header-longitude {
+  width: 26vw;
+  padding-left: 1.2rem;
+}
+
+.nom-value {
+  width: 15.1vw;
+}
+
+.latitude-value {
+  width: 22.1vw;
+}
+
+.longitude-value {
+  width: 27vw;
+}
+
+.btn-link {
+  padding: 0;
+}
+
+.data-modifiers {
+  display: flex;
+  width: 10rem;
+}
+
+.modal-form {
+  display: flex;
+  flex-direction: column;
+}
+
+.modal-form input {
+  margin: 0.75rem 0;
+  width: 100%;
+}
+
+.modal-confirm-div {
+  text-align: right;
+}
+
+#ajouter-ruche-confirm {
+  width: 20%;
+  margin-top: 0.75rem;
+}

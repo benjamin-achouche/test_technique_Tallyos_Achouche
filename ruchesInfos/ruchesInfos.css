@@ -1,0 +1,43 @@
+h3 {
+  margin: 0;
+}
+
+.data-header-date {
+  width: 30vw;
+  padding-left: 1.2rem;
+}
+
+.data-header-poids {
+  width: 15vw;
+  padding-left: 1.2rem;
+}
+
+.data-header-temperature {
+  width: 25vw;
+  padding-left: 1.2rem;
+}
+
+.data-header-humidite {
+  width: 20vw;
+  padding-left: 1.2rem;
+}
+
+.ruche-value {
+  width: 11vw;
+}
+
+.date-value {
+  width: 21.25vw;
+}
+
+.poids-value {
+  width: 10.85vw;
+}
+
+.temperature-value {
+  width: 17.75vw;
+}
+
+.humidite-value {
+  width: 1vw;
+}
